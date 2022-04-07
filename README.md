@@ -40,3 +40,6 @@ The analysis of the elction show that:
    - **Diana Gette who received 73.8% of the vote and 272,892 number of votes.**
 <img width="289" alt="Screen Shot 2022-04-07 at 12 36 29 PM" src="https://user-images.githubusercontent.com/101950175/162282647-c9d2a70b-a417-4eb7-9242-0a68c7e03d99.png">
 
+##Election-Audit Summary
+This script came be used (with some modifications) for any future elections.  You would be able to 
+The link to the script can be found here.
