@@ -40,6 +40,6 @@ The analysis of the elction show that:
    - **Diana Gette who received 73.8% of the vote and 272,892 number of votes.**
 <img width="289" alt="Screen Shot 2022-04-07 at 12 36 29 PM" src="https://user-images.githubusercontent.com/101950175/162282647-c9d2a70b-a417-4eb7-9242-0a68c7e03d99.png">
 
-##Election-Audit Summary
+## Election-Audit Summary
 This script came be used (with some modifications) for any future elections.  You would be able to take this code - found [here](https://github.com/AimeeJLewis/Election_Analysis/blob/main/PyPoll_Challenge.py), and modify to find the voters demographics for example. Instead of figuring out what county, you could modify the code to look at the age demographics per vote by setting the parameters for what age demographic groups you'd like to look at and utilizing a for loop and if/then statements.  You could also modify this code for individual ballot/measure results to find the winning results of each measure on a ballot by utilizing a if/then statement for a yes/no scenario.  Overall you can utilize this code as a starting point for any election and can modify the script to find the results you are looking for.
 
